@@ -1,0 +1,2 @@
+# Somente biblioteca padrão do Python (tkinter, json, random, dataclasses).
+# Nenhuma dependência externa é necessária.
